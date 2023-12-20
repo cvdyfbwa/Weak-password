@@ -18,7 +18,7 @@
 
 ## Try connecting using telnet
 
->Successfully entered the shell window, As shown below:
+> Successfully entered the shell interface, As shown below:
 
 <img width="854" alt="屏幕截图 2023-12-19 194143" src="https://github.com/cvdyfbwa/Weak-password/assets/150313831/548beea5-5de6-4da5-bcc5-05f4b86f3e9f">
 
