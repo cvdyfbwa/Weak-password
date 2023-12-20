@@ -1,4 +1,4 @@
-# The telnet service login password is a weak password
+# Telnet service login password is a weak password
 
 ## The telnet service of the device is turned on
 
