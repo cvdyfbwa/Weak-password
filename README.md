@@ -1,5 +1,10 @@
 # Telnet service login password is a weak password
 
+## Basic equipment information
+
+> hikvision-D1 driving recorder
+> firmware version : 2.0.9
+
 ## The telnet service of the device is turned on
 
 > Use the port scanning tool to scan the device IP address and find that the device has the telnet service enabled by default,Try to connect and find that an account and password are required, As shown below:
