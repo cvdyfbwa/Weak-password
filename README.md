@@ -3,6 +3,7 @@
 ## Basic equipment information
 
 > hikvision-D1 driving recorder
+
 > firmware version : 2.0.9
 
 ## The telnet service of the device is turned on
